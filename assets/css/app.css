@@ -1,3 +1,11 @@
 /* This file is for your main application css. */
 
 @import "./phoenix.css";
+
+#message-list {
+  border: 1px solid black;
+  height: 400px;
+  padding: 5px;
+  overflow: scroll;
+  margin-bottom: 30px;
+}
